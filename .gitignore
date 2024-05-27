@@ -1,0 +1,11 @@
+db.sqlite3
+melp_env/
+__pycache__
+*.log
+*.pot
+*.pyc
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
